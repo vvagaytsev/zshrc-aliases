@@ -9,7 +9,7 @@ alias tailf='tail -f'
 # Docker
 alias d='docker'
 
-# Kunbernetes
+# Kubernetes
 alias k='kubectl'
 alias kns='kubens'
 alias knsd='kubectl delete ns'
